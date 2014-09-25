@@ -6,6 +6,7 @@ body{
 #header{
 	font-family:"Arial";
 	font-size:25px;
+	text-align:center;
 }
 	
 
@@ -13,4 +14,12 @@ body{
 	font-family:"Arial";
 	font-size:18px;
 	}
+#Header{
+	font-family:"Arial";
+	font-size:25px;
+	text-align:center;
+}
+h4{
+	font-style: Italic;
+}
 
